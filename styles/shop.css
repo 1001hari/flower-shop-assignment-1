@@ -45,13 +45,180 @@ body {
     border-radius: 5px;
     background-color: #E55473;
     padding: 15px 30px;
-    color:white;
+    color: white;
     margin-top: 20px;
 
 }
 
-.first-img{
+.first-img {
 
     margin-top: 50px;
+
+}
+
+/* bonus section styles */
+.bonous-section {
+    background-color: #FFF;
+    margin: 30px 250px;
+    height: 100vh;
+    margin-top: 30px;
+
+}
+
+.sec-heading {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+
+.sec-para {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+
+}
+
+.sec-middle {
+    display: flex;
+    gap: 50px;
+    margin-left: 200px;
+
+}
+
+.first-middle {
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(167, 33, 98, 0.15);
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    margin-top: 30px;
+}
+
+.same {
+    padding: 30px 30px 0px 30px;
     
+
+}
+
+.second-middle {
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(5, 151, 160, 0.15);
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    margin-top: 30px;
+}
+
+.second {
+    padding: 10px;
+    width: 350px;
+
+}
+
+.third-middle {
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(71, 125, 17, 0.15);
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    margin-top: 30px;
+
+}
+
+.third {
+    padding: 30px 30px 0px 30px;
+
+}
+
+.sec-third > ul {
+    margin-top: 30px;
+    display: flex;
+    /* justify-content: space-around; */
+    justify-content: space-between;
+
+    list-style: none;
+    
+}
+
+.first-list {
+    color: #272727;
+    text-align: center;
+
+    font-size: 24px;
+
+    font-weight: 700;
+
+    text-decoration-line: underline;
+    margin-left: 280px;
+
+}
+
+.second-list {
+    color: #272727;
+    text-align: center;
+
+    font-size: 24px;
+
+    font-weight: 700;
+
+    text-decoration-line: underline;
+    
+}
+
+.third-list {
+    color: #272727;
+    text-align: center;
+    
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+    margin-right: 200px;
+
+
+}
+
+
+
+.sec-last {
+    display: flex;
+    
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin: 60px 120px;
+    gap: 100px;
+    margin-left: 200px;
+    
+    
+}
+
+.first-logo{
+    padding: 40px;
+    margin-left: 100px;
+}
+
+.second-logo{
+    padding: 40px;
+}
+.third-logo{
+    padding: 40px;
+}
+
+.sec-img{
+    margin-left: 60px;
+}
+.part-img{
+    margin-left: 60px;
+}
+.last-img{
+    margin-left: 20px;
+}
+
+.first-sust{
+    margin-top: 10px;
+}
+.second-sust{
+    margin-top: 10px;
+}
+.third-sust{
+    margin-top: 10px;
+
 }
