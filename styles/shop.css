@@ -167,7 +167,7 @@ body {
     font-weight: 700;
     line-height: 35px;
     text-decoration-line: underline;
-    margin-right: 250px;
+    margin-right: 230px;
 
 }
 
@@ -278,7 +278,7 @@ body {
 
 }
 .instagram-img{
-    padding: 5px;
+    padding: 2px;
 }
 
 .some-items {
@@ -309,7 +309,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    width: 73%;
+    width: 75%;
     height: 40vh;
     margin-left: 300px;
 
