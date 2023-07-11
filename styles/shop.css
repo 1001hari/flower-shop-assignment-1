@@ -309,7 +309,7 @@ body {
     display: flex;
     margin-top: 50px;
     width: 100%;
-    height: auto;
+    height: 60vh;
     justify-content: space-around;
     background-color: rgba(229, 84, 115, 0.05);
 }
@@ -346,6 +346,8 @@ body {
 /* payment section styles */
 .payment {
     margin-top: 40px;
+    width: 100%;
+    height: auto;
 }
 
 .change-btn {
