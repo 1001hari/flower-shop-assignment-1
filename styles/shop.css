@@ -126,7 +126,7 @@ body {
 
 }
 
-.sec-third > ul {
+.sec-third>ul {
     margin-top: 30px;
     display: flex;
     /* justify-content: space-around; */
@@ -303,6 +303,56 @@ body {
 .select-btn {
     margin-left: 20px;
 }
+
+/* our services */
+.extra-section {
+    display: flex;
+    margin-top: 50px;
+    width: 100%;
+    height: auto;
+    justify-content: space-around;
+    background-color: rgba(229, 84, 115, 0.05);
+}
+
+.head-system {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-left: 50px;
+
+
+}
+
+.style-btn {
+    margin-top: 30px;
+    margin-left: 200px;
+}
+
+.sec-list {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: left;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+
+}
+
+.change {
+    margin-top: 30px;
+    margin-left: 200px;
+}
+
+/* payment section styles */
+.payment {
+    margin-top: 40px;
+}
+
+.change-btn {
+    margin-left: 900px;
+}
+
+
 
 /* footer styles */
 .footer-part {
