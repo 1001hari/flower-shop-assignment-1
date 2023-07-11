@@ -86,7 +86,7 @@ body {
 
 .sec-middle {
     display: flex;
-    gap: 45px;
+    gap: 30px;
     margin-left: 200px;
 
 }
@@ -249,7 +249,7 @@ body {
 .fifth-section {
     margin-top: 50px;
     background: #FFF;
-    width: 70%;
+    width: 75%;
     height: auto;
 }
 .section-same{
@@ -276,6 +276,9 @@ body {
     display: flex;
     margin-top: 30px;
 
+}
+.instagram-img{
+    padding: 5px;
 }
 
 .some-items {
@@ -306,7 +309,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    width: 70%;
+    width: 73%;
     height: 40vh;
     margin-left: 300px;
 
