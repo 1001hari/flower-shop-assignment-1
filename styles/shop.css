@@ -59,9 +59,11 @@ body {
 /* bonus section styles */
 .bonous-section {
     background-color: #FFF;
-    margin: 30px 250px;
+    /* margin: 30px 250px; */
     height: 110vh;
     margin-top: 50px;
+    margin-left: 200px;
+    width: 80%;
 
 }
 
@@ -84,7 +86,7 @@ body {
 
 .sec-middle {
     display: flex;
-    gap: 50px;
+    gap: 45px;
     margin-left: 200px;
 
 }
@@ -97,7 +99,7 @@ body {
 }
 
 .same {
-    padding: 30px 30px 0px 30px;
+    padding: 35px 30px 0px 35px;
 }
 
 .second-middle {
@@ -108,8 +110,9 @@ body {
 }
 
 .second {
-    padding: 10px;
+    /* padding: 10px; */
     width: 350px;
+    padding: 35px 30px 0px 20px;
 
 }
 
@@ -122,7 +125,7 @@ body {
 }
 
 .third {
-    padding: 30px 30px 0px 30px;
+    padding: 50px 40px 0px 50px;
 
 }
 
@@ -164,7 +167,7 @@ body {
     font-weight: 700;
     line-height: 35px;
     text-decoration-line: underline;
-    margin-right: 200px;
+    margin-right: 250px;
 
 }
 
@@ -246,7 +249,7 @@ body {
 .fifth-section {
     margin-top: 50px;
     background: #FFF;
-    width: 80%;
+    width: 70%;
     height: auto;
 }
 .section-same{
@@ -261,7 +264,7 @@ body {
 
 .section-sust{
     margin-top: 30px;
-    margin-left: 450px;
+    margin-left: 600px;
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
     font-size: 18px;
