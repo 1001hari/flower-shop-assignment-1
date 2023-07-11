@@ -235,15 +235,86 @@ body {
     justify-content: space-around;
     border-radius: 8px;
     background: rgba(229, 84, 115, 0.05);
+
 }
-.left-deal{
+
+.left-deal {
     margin-left: 240px;
     margin-top: 180px;
     text-align: center;
 }
-.text-red{
-    color:#E55473;
+
+.text-red {
+    color: #E55473;
 }
-.fourth-img{
+
+.fourth-img {
     padding: 40px;
+}
+
+/* fifth section or instagram */
+.fifth-section {
+    margin-top: 50px;
+    background: #FFF;
+}
+
+.second-instagram {
+    display: flex;
+    margin-top: 30px;
+
+}
+
+.some-items {
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    margin-left: 300px;
+}
+
+.sust-items {
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    margin-left: 20px;
+}
+
+.bau-items {
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    margin-left: 20px;
+
+}
+
+.du-items {
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    margin-left: 20px;
+}
+
+.instagram-img {}
+
+/* sixth section */
+.sixth-section {
+    margin-top: 50px;
+    background-image: url("Rectangle\ 9.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 70%;
+    height: 40vh;
+    margin-left: 300px;
+
+}
+
+.select-text {
+    padding-top: 100px;
+}
+
+.second-latest {
+    margin-left: 350px;
+}
+
+.email-search {
+    padding: 15px 200px;
+    border-radius: 8px;
+    background: #FFF;
+    border: 0px;
+}
+
+.select-btn{
+    margin-left: 20px;
 }
